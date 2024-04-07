@@ -141,7 +141,7 @@ export const WORK_EXPERIENCES = [
   },
 
   {
-    duration: "Jan 2021-March 2022",
+    duration: "Jan 2022-March 2022",
     company: "YBI Foundation",
     role: "Machine Learning Intern",
   },
