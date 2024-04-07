@@ -147,7 +147,7 @@ export const WORK_EXPERIENCES = [
   },
 
   {
-    duration: "Jan 2021-March 2022",
+    duration: "Dec 2021-Jan 2022",
     company: "Microsoft Student Virtual Internship",
     role: "Future Ready Talent Affiliated with Microsoft India,NASSCOM,AICTE",
   },
