@@ -80,17 +80,19 @@ export const MY_CREATIONS = [
   },
   {
     topic: "Friendship",
-    title: "ભાઈબંધી",
-    link: "https://drive.google.com/file/d/1ScCecg6GbXtlwER66QUxUPa0h4NZHZCu/view",
-  },
-  {
-    topic: "Friendship",
     title: "તું જ છેને?",
     link: "https://drive.google.com/file/d/1Y-V0CVrKgH7XRZAAdlmtZxinftFEi1mc/view",
   },
 ];
 
 export const PROJECTS = [
+   {
+    name: "Predictive analysis of real diamonds prices",
+    subtitle: "(Industrial Project)",
+    description:
+      "Led a team of 5 implementing a predictive analytics model for estimating real diamond prices, employing variety of regression algorithms based on characteristics such as carat, cut, color, clarity and many more. Provided actionable insights into key price determinants, empowering stakeholders to make investment decisions.",
+    link: null,
+  },
   {
     name: "i-SARAL",
     subtitle: "(Lung Anomaly Analysis & Recognition System)",
