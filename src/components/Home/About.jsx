@@ -21,7 +21,7 @@ const About = () => {
           </p>
           <>
             <a
-              href="https://drive.google.com/file/d/19kAQ3r3x9QYvm24Jt8C7NkXbykAvJ5kY/view?usp=drivesdk"
+              href="https://www.icloud.com/iclouddrive/051bHSqYyf-B4QVPPGiCsadsA#manav%5Fresume%5FA"
               className="resume__link"
             >
               <span>
