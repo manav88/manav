@@ -137,6 +137,11 @@ export const PUBLICATIONS = [
 
 export const WORK_EXPERIENCES = [
   {
+    duration: "Aug 2025-Present",
+    company: "College of Business,CSULB",
+    role: "Instructional Student Assistant",
+  },
+  {
     duration: "Feb 2023-May 2023",
     company: "SAP India",
     role: "Data Analytics Intern",
