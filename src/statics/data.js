@@ -139,7 +139,7 @@ export const WORK_EXPERIENCES = [
   {
     duration: "Aug 2024-Present",
     company: "College of Business,CSULB",
-    role: "Instructional Student Assistant",
+    role: "Graduate Assistant",
   },
   {
     duration: "Feb 2023-May 2023",
