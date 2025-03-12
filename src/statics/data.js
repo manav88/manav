@@ -142,13 +142,13 @@ export const WORK_EXPERIENCES = [
     role: "Graduate Assistant",
   },
   {
-    duration: "Feb 2023-May 2023",
+    duration: "Sep 2022-May 2023",
     company: "SAP India",
     role: "Data Analytics Intern",
   },
 
   {
-    duration: "Jan 2022-March 2022",
+    duration: "Oct 2021-March 2022",
     company: "YBI Foundation",
     role: "Machine Learning Intern",
   },
