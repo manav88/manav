@@ -144,7 +144,7 @@ export const WORK_EXPERIENCES = [
   {
     duration: "Sep 2022-May 2023",
     company: "SAP India",
-    role: "Data Analytics Intern",
+    role: "Data Science Intern",
   },
 
   {
