@@ -20,10 +20,10 @@ const About = () => {
             field of technology.
           </p>
           <>
-{/*             <a
-              href="https://drive.google.com/file/d/19kAQ3r3x9QYvm24Jt8C7NkXbykAvJ5kY/view?usp=drivesdk"
+            <a
+              href=""
               className="resume__link"
-            > */}
+            >
               <span>
                 Resume <HiOutlineExternalLink />
               </span>
